@@ -85,3 +85,31 @@ Responsible for:
 
 ```bash
 docker-compose up --build
+```
+---
+
+Each service exposes its own REST API.
+
+## 🔮 Future Improvements
+
+- Event-driven communication between services
+
+- Market data integration
+
+- Risk management rules
+
+- Idempotency handling
+
+- Observability (metrics & tracing)
+
+## 🧠 Design Philosophy
+
+This project prioritizes:
+
+- Explicit domain modeling
+
+- Clear separation of concerns
+
+- Readable and maintainable code
+
+- Predictable behavior over feature completeness
